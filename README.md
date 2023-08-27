@@ -1,2 +1,2 @@
-# mrasyidaqmar.github.io
+# mrasyid.github.io
 Personal Website
